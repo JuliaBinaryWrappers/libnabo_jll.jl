@@ -1,0 +1,288 @@
+[[libnabo]]
+arch = "aarch64"
+git-tree-sha1 = "52ae34227b9c6125049f72eccf79b75bca07dd42"
+os = "macos"
+
+    [[libnabo.download]]
+    sha256 = "aba18099bba546ad1b0d9c3c0cd4617f6f2743ae04d0d005ca6e32565764594e"
+    url = "https://github.com/JuliaBinaryWrappers/libnabo_jll.jl/releases/download/libnabo-v1.0.7+0/libnabo.v1.0.7.aarch64-apple-darwin.tar.gz"
+[[libnabo]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "a3aec091921596fd48201863a6d13c39f9601f81"
+libc = "glibc"
+os = "linux"
+
+    [[libnabo.download]]
+    sha256 = "27fc6f33d79679c4362428e7f382e2448508ced66cbdc3d1832f6075fa48ecee"
+    url = "https://github.com/JuliaBinaryWrappers/libnabo_jll.jl/releases/download/libnabo-v1.0.7+0/libnabo.v1.0.7.aarch64-linux-gnu-cxx03.tar.gz"
+[[libnabo]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "f242156e7ac75a4b1709326608bb76062d03bb04"
+libc = "glibc"
+os = "linux"
+
+    [[libnabo.download]]
+    sha256 = "6d97e821272195899552c110fb7960c03d2ef5e1e90e6712201f5efeea226914"
+    url = "https://github.com/JuliaBinaryWrappers/libnabo_jll.jl/releases/download/libnabo-v1.0.7+0/libnabo.v1.0.7.aarch64-linux-gnu-cxx11.tar.gz"
+[[libnabo]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "b26687af2b74d9e9328f4f4bf4da45b2b16132be"
+libc = "musl"
+os = "linux"
+
+    [[libnabo.download]]
+    sha256 = "5f16bb6ec8fd93d239758ab2c2f1d9e3046e44792e5a37ca4d7130ae8e266554"
+    url = "https://github.com/JuliaBinaryWrappers/libnabo_jll.jl/releases/download/libnabo-v1.0.7+0/libnabo.v1.0.7.aarch64-linux-musl-cxx03.tar.gz"
+[[libnabo]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "0be153c753f5f00308bdf09367333854296e6720"
+libc = "musl"
+os = "linux"
+
+    [[libnabo.download]]
+    sha256 = "0d90720f5061242baf30e008fe9d17224e7e5a610b8f74d71269527dbd9ea4d2"
+    url = "https://github.com/JuliaBinaryWrappers/libnabo_jll.jl/releases/download/libnabo-v1.0.7+0/libnabo.v1.0.7.aarch64-linux-musl-cxx11.tar.gz"
+[[libnabo]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "cb5e94f42fb3ac59f13c54dec33712158b355620"
+libc = "glibc"
+os = "linux"
+
+    [[libnabo.download]]
+    sha256 = "b76cfff680d32f3498fdb7bdeb221e05a4b0e24539f83f9d8b02a96b267472c4"
+    url = "https://github.com/JuliaBinaryWrappers/libnabo_jll.jl/releases/download/libnabo-v1.0.7+0/libnabo.v1.0.7.armv6l-linux-gnueabihf-cxx03.tar.gz"
+[[libnabo]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "2ab5b8686f5415979fe53331313dec032812d0f4"
+libc = "glibc"
+os = "linux"
+
+    [[libnabo.download]]
+    sha256 = "58851371b64f0e762788ce3694f452cbdb6ce1caff7316794d20d5f94892590e"
+    url = "https://github.com/JuliaBinaryWrappers/libnabo_jll.jl/releases/download/libnabo-v1.0.7+0/libnabo.v1.0.7.armv6l-linux-gnueabihf-cxx11.tar.gz"
+[[libnabo]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "d18a81363126aa14b7f07d635e1c8182c0f0def0"
+libc = "musl"
+os = "linux"
+
+    [[libnabo.download]]
+    sha256 = "bacc5a1ffe3b5135e3391753076e10992dffd52c23efe2a3b0dec6db2a323e6a"
+    url = "https://github.com/JuliaBinaryWrappers/libnabo_jll.jl/releases/download/libnabo-v1.0.7+0/libnabo.v1.0.7.armv6l-linux-musleabihf-cxx03.tar.gz"
+[[libnabo]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "ced8be23349b8c7df5e0407bd7f7144d27417e92"
+libc = "musl"
+os = "linux"
+
+    [[libnabo.download]]
+    sha256 = "459564929107d55356d8c1b7f85ab0cb04e0983fc46723b898bc528ef75724d2"
+    url = "https://github.com/JuliaBinaryWrappers/libnabo_jll.jl/releases/download/libnabo-v1.0.7+0/libnabo.v1.0.7.armv6l-linux-musleabihf-cxx11.tar.gz"
+[[libnabo]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "20a85ef39f4ce7451e4f25b94815af6125d62c96"
+libc = "glibc"
+os = "linux"
+
+    [[libnabo.download]]
+    sha256 = "3f3c42e88c3ef31e5f278322e4272ccef19f34d4fb4cd9020eedbc3063a03f1b"
+    url = "https://github.com/JuliaBinaryWrappers/libnabo_jll.jl/releases/download/libnabo-v1.0.7+0/libnabo.v1.0.7.armv7l-linux-gnueabihf-cxx03.tar.gz"
+[[libnabo]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "a9035495109315a34d29bf7effa8798273a3ae53"
+libc = "glibc"
+os = "linux"
+
+    [[libnabo.download]]
+    sha256 = "6ed405679698d599f4a41ca03084c8b1e22cc3f0c33400e9c356e8babf67e9d8"
+    url = "https://github.com/JuliaBinaryWrappers/libnabo_jll.jl/releases/download/libnabo-v1.0.7+0/libnabo.v1.0.7.armv7l-linux-gnueabihf-cxx11.tar.gz"
+[[libnabo]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "be3aaecbc16ea66a4327cd1ee748f1f05a1f8748"
+libc = "musl"
+os = "linux"
+
+    [[libnabo.download]]
+    sha256 = "a8e2c7506d35a1358d18512803d43c25a44eac50cf33416a3651e20774b2afaa"
+    url = "https://github.com/JuliaBinaryWrappers/libnabo_jll.jl/releases/download/libnabo-v1.0.7+0/libnabo.v1.0.7.armv7l-linux-musleabihf-cxx03.tar.gz"
+[[libnabo]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "058cb2e7ae8a09c4e8d9ad44889467a50b49765c"
+libc = "musl"
+os = "linux"
+
+    [[libnabo.download]]
+    sha256 = "e73944aa24bddbd0c7cee6f78bedbf8f1702a19b161df44b7246512a32298cd1"
+    url = "https://github.com/JuliaBinaryWrappers/libnabo_jll.jl/releases/download/libnabo-v1.0.7+0/libnabo.v1.0.7.armv7l-linux-musleabihf-cxx11.tar.gz"
+[[libnabo]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "19d36f00bc37cd3775019368c0e40a1a93011e4c"
+libc = "glibc"
+os = "linux"
+
+    [[libnabo.download]]
+    sha256 = "63d71b38ed0593dca85d8f23febb26dc62148b9a9054b4f66c9bd49605228a48"
+    url = "https://github.com/JuliaBinaryWrappers/libnabo_jll.jl/releases/download/libnabo-v1.0.7+0/libnabo.v1.0.7.i686-linux-gnu-cxx03.tar.gz"
+[[libnabo]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "fc5e8ca183a03afb95c19dc8dc03b574e01e0765"
+libc = "glibc"
+os = "linux"
+
+    [[libnabo.download]]
+    sha256 = "9983b2c631a456a49e39047172379e6d5da2e04c8c3e69eaf6060813dad0b4b5"
+    url = "https://github.com/JuliaBinaryWrappers/libnabo_jll.jl/releases/download/libnabo-v1.0.7+0/libnabo.v1.0.7.i686-linux-gnu-cxx11.tar.gz"
+[[libnabo]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "fa9c10eb784acac5ca6557e8be6f481dc9b80378"
+libc = "musl"
+os = "linux"
+
+    [[libnabo.download]]
+    sha256 = "307fc069958b4e7181974b320431868b943a1b4e9fdc24af1ce60401641c3e66"
+    url = "https://github.com/JuliaBinaryWrappers/libnabo_jll.jl/releases/download/libnabo-v1.0.7+0/libnabo.v1.0.7.i686-linux-musl-cxx03.tar.gz"
+[[libnabo]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "eb6f2455c2ed47c0f06c3605566c0e782678eea4"
+libc = "musl"
+os = "linux"
+
+    [[libnabo.download]]
+    sha256 = "70d48a3780ecc9718fe14e1ed41d675990a98d648e8a0311f45411d156ba6032"
+    url = "https://github.com/JuliaBinaryWrappers/libnabo_jll.jl/releases/download/libnabo-v1.0.7+0/libnabo.v1.0.7.i686-linux-musl-cxx11.tar.gz"
+[[libnabo]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "d30a4abf5b15d462d9d89c8c1ee551e14e8a0fa0"
+os = "windows"
+
+    [[libnabo.download]]
+    sha256 = "01886d691713dfec6af4a6dd536eed136fab652ed82db748e1998ad9e3fda283"
+    url = "https://github.com/JuliaBinaryWrappers/libnabo_jll.jl/releases/download/libnabo-v1.0.7+0/libnabo.v1.0.7.i686-w64-mingw32-cxx03.tar.gz"
+[[libnabo]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "23a2810f3419a36f34b1a361bd8177ece8a8989a"
+os = "windows"
+
+    [[libnabo.download]]
+    sha256 = "1ec3f73b01c187640db49f11227228d23a85c2da81442239dcfa5f687bcc2f9e"
+    url = "https://github.com/JuliaBinaryWrappers/libnabo_jll.jl/releases/download/libnabo-v1.0.7+0/libnabo.v1.0.7.i686-w64-mingw32-cxx11.tar.gz"
+[[libnabo]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "7f857df2e7f7929f184411a2d81538c6c6a1251e"
+libc = "glibc"
+os = "linux"
+
+    [[libnabo.download]]
+    sha256 = "9f3284e0859462395f6d43c27a51e9f46e6b47a0d35ef28aaf8231676ca15ad4"
+    url = "https://github.com/JuliaBinaryWrappers/libnabo_jll.jl/releases/download/libnabo-v1.0.7+0/libnabo.v1.0.7.powerpc64le-linux-gnu-cxx03.tar.gz"
+[[libnabo]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "a76da640482544d8e4a7c8a34e41436a7a7f76cf"
+libc = "glibc"
+os = "linux"
+
+    [[libnabo.download]]
+    sha256 = "831063696f5fd33ed39bbfd8e8c1f999ebdc2ccef4fabccf78bbf73bd21ee2df"
+    url = "https://github.com/JuliaBinaryWrappers/libnabo_jll.jl/releases/download/libnabo-v1.0.7+0/libnabo.v1.0.7.powerpc64le-linux-gnu-cxx11.tar.gz"
+[[libnabo]]
+arch = "x86_64"
+git-tree-sha1 = "da5acf723faa86cd49f9af022b89822f5f177210"
+os = "macos"
+
+    [[libnabo.download]]
+    sha256 = "a404bba83b3c914fb9e78b9c25e234e7e5bbc446c075a168d53129a7bf2f475d"
+    url = "https://github.com/JuliaBinaryWrappers/libnabo_jll.jl/releases/download/libnabo-v1.0.7+0/libnabo.v1.0.7.x86_64-apple-darwin.tar.gz"
+[[libnabo]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "99238b9650a3a9abb3b16234a4a8d117dd8e01ed"
+libc = "glibc"
+os = "linux"
+
+    [[libnabo.download]]
+    sha256 = "e8138a760e5dd8b6f524d5b48faaf4e354070c96051b63a6e258ef033ded13f2"
+    url = "https://github.com/JuliaBinaryWrappers/libnabo_jll.jl/releases/download/libnabo-v1.0.7+0/libnabo.v1.0.7.x86_64-linux-gnu-cxx03.tar.gz"
+[[libnabo]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "5feb5753925a5f06a825a1c0295595aae824fcc3"
+libc = "glibc"
+os = "linux"
+
+    [[libnabo.download]]
+    sha256 = "0761ead0687796bb5ee73b8704234f70a948d7bf14283bb2a7a01b15859f7ee8"
+    url = "https://github.com/JuliaBinaryWrappers/libnabo_jll.jl/releases/download/libnabo-v1.0.7+0/libnabo.v1.0.7.x86_64-linux-gnu-cxx11.tar.gz"
+[[libnabo]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "cf9919557179951899fb98166d896acf2908ea26"
+libc = "musl"
+os = "linux"
+
+    [[libnabo.download]]
+    sha256 = "e432d290501a68b97a2b94c2c7df522327aa739874b38dfbedd7f1644c08d2ae"
+    url = "https://github.com/JuliaBinaryWrappers/libnabo_jll.jl/releases/download/libnabo-v1.0.7+0/libnabo.v1.0.7.x86_64-linux-musl-cxx03.tar.gz"
+[[libnabo]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "c12e8e8c1eebd8be72051fe03289fba902b34627"
+libc = "musl"
+os = "linux"
+
+    [[libnabo.download]]
+    sha256 = "6679f724881b1a8fa28f98c53a1440c1170e71f5fc8f15ae44a292b4e87c6171"
+    url = "https://github.com/JuliaBinaryWrappers/libnabo_jll.jl/releases/download/libnabo-v1.0.7+0/libnabo.v1.0.7.x86_64-linux-musl-cxx11.tar.gz"
+[[libnabo]]
+arch = "x86_64"
+git-tree-sha1 = "bdb2e4051fbbe5db21a50bcf09e409f85c8c3335"
+os = "freebsd"
+
+    [[libnabo.download]]
+    sha256 = "495efaded0082f2268e74b0446f9303d400526408b4f4998db74b457da3da278"
+    url = "https://github.com/JuliaBinaryWrappers/libnabo_jll.jl/releases/download/libnabo-v1.0.7+0/libnabo.v1.0.7.x86_64-unknown-freebsd.tar.gz"
+[[libnabo]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "b1b4cc9ba0ea29e8b81be0e0e1147462dbb6f798"
+os = "windows"
+
+    [[libnabo.download]]
+    sha256 = "b926ff64f1ace9f43b7cf53dde66ce28b35556ce6c5eb53a7c64970f73b3b47b"
+    url = "https://github.com/JuliaBinaryWrappers/libnabo_jll.jl/releases/download/libnabo-v1.0.7+0/libnabo.v1.0.7.x86_64-w64-mingw32-cxx03.tar.gz"
+[[libnabo]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "e8588b474a3ade57d18ec219e884142e10398599"
+os = "windows"
+
+    [[libnabo.download]]
+    sha256 = "6e5d4a16a0214eb2c2482f6bd0d24058861488c8b950b0355c05491d92451173"
+    url = "https://github.com/JuliaBinaryWrappers/libnabo_jll.jl/releases/download/libnabo-v1.0.7+0/libnabo.v1.0.7.x86_64-w64-mingw32-cxx11.tar.gz"
